@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: rgb(250, 250, 250);
+}
+
+.container{
+    margin: 50px 250px;
+    padding: 60px;
+    box-shadow: 0 1px 10px rgb(65, 65, 65);
+    border-radius: 25px;
+    background-color: rgb(75, 78, 255);
+}
+
+table{
+    text-align: center;
+    margin: auto;
+}
+
+table, tr, td{
+    border: 1px solid black;
+    background-color: white;
+}
+
+td{
+    padding: 10px 20px;
+    max-width: 20%;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color: blue;
+}
+
+h2{
+    color:white;
+}
